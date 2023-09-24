@@ -2,7 +2,7 @@
 
 I am current student with BloomTech at the Backend Development program, really enjoy coding and I easily spend hours and hours working on projects or coding problems.
 
-I have some experience using: 
+I have experience with: 
 * Java
 * DynamoDB
 * API Gateway
