@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am current student with BloomTech at the Backend Development program, really enjoy coding and I easily spend hours and hours working on projects or coding problems.
+I am a Software Engineer. My first experience with programming was back in 2018, I bought a book called 'The Self-taught Programmer', I learned basic Python, which later helped me when I started college. I have done multiple courses in Udemy (I really programming and learning new things). In May 2023 I started the Backend Development program with BloomTech, this course was jointly developed with Amazon. 
 
 I have experience with: 
 * Java
